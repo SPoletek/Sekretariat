@@ -1,0 +1,4 @@
+	Maria	/	Elżbieta	/	Nowakowska	/	Nowak	/	Maria	/	Mirosław	/	niedziela, 29 stycznia 1984	/	09876543210	/	K	/	7c	/	Matematyka	/	3pr T5 - 8:00, 7c - 12:30	/	środa, 17 czerwca 2009	/
+	Agnieszka	/	Anna	/	Płocka	/	Płocka	/	Anna	/	Mieczysław	/	czwartek, 29 stycznia 1981	/	78901234567	/	K	/		/	Język Polski, EDB	/	3pr T5 - 9:20, 4f - 15:30	/	środa, 17 czerwca 2009	/
+	Dawid	/	Paweł	/	Plutecki	/	Plutecki	/	Agnieszka	/	Piotr	/	piątek, 17 lipca 1992	/	32132132132	/	M	/	3pr T5	/	Historia	/	3pr T5 - 8:55 i 13:30, 7c - 9:00	/	piątek, 12 lutego 2010	/
+	Michał	/	Piotr	/	Michałowski	/	Michałowski	/	Michalina	/	Michał	/	czwartek, 3 października 1991	/	88888888888	/	M	/		/	Wychowanie Fizyczne	/	3pr T5 - 15:45, 7c - 7:10, 4f - 13:30	/	wtorek, 19 marca 2019	/

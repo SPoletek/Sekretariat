@@ -1,0 +1,4 @@
+	Anna	/	Maria	/	Mariacka	/	Annicka	/	Anna	/	Mariusz	/	środa, 5 czerwca 1985	/	43434343434	/	K	/	pełny	/	Sekretarka	/	piątek, 14 lipca 2006	/
+	Agnieszka	/		/	Trybunalska	/	Trybunalska	/	Marianna	/	Remigiusz	/	piątek, 12 lipca 1968	/	45645645645	/	K	/	pół	/	woźna	/	środa, 22 października 2008	/
+	Krzysztof	/	Marcin	/	Sobakółkowicz	/	Sobakółkowicz	/	Elżbieta	/	Emil	/	piątek, 19 czerwca 1959	/	78787878787	/	M	/	pełen	/	woźny	/	piątek, 16 listopada 2007	/
+	Przemysław	/		/	Sobolski	/	Sobolski	/	Marta	/	Alan	/	sobota, 17 lipca 1965	/	65656543321	/	M	/	pełen	/	kadrowy	/	poniedziałek, 14 maja 2007	/
